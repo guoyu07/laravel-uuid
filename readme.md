@@ -11,7 +11,7 @@ Laravel package to generate and to validate a universally unique identifier (UUI
 ## What's new in 3.*
 Laravel-uuid is now refactored for Laravel 5.5. It has the same requirements so that means PHP 7. Laravel package auto-discovery is enabled, and you can now use the UUID validation. Validation examples are below and in the tests. 
 
-Laravel 5.0, 5.1, 5.2, 5.3 and 5.4? use  [version 2](https://github.com/webpatser/laravel-uuid/tree/2.1.1)
+Laravel 5.0, 5.1, 5.2, 5.3, 5.4 and 5.5? use  [version 2](https://github.com/webpatser/laravel-uuid/tree/2.1.1)
 
 Laravel 4.*? use [version 1](https://github.com/webpatser/laravel-uuid/tree/1.5)
 
